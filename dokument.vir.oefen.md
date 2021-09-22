@@ -9,3 +9,5 @@ En hier wag ek om my prentjie mooi en sinvol te bespreek.
 As ek hier skrywe, moet ek dit nog commit sodat dit deurtrek na Github toe.
 
 Maar wat van nog, want ek weet nie?
+
+Maar ek moet meer skryf nou
