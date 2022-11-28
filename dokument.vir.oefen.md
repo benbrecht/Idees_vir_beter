@@ -11,3 +11,7 @@ As ek hier skrywe, moet ek dit nog commit sodat dit deurtrek na Github toe.
 Maar wat van nog, want ek weet nie?
 
 Maar ek moet meer skryf nou
+As ek nou 'n tabel wil plaas, lyk dit hoe?
+# Tabeldinge
+
+
